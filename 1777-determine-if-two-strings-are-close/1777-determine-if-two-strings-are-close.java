@@ -1,28 +1,27 @@
 class Solution {
     public boolean closeStrings(String word1, String word2) {
-        Set<Character> exist1 = new HashSet<>();
-        Set<Character> exist2 = new HashSet<>();
+        if (word1.length() != word2.length()) {
+            return false;
+        }
+
+        int[] isExisting1 = new int[26];
+        int[] isExisting2 = new int[26];
         int[] freq1 = new int[26];
         int[] freq2 = new int[26];
 
         for (char c : word1.toCharArray()) {
-            exist1.add(c);
+            isExisting1[c - 'a']++;
             freq1[c - 'a']++;
         }
 
         for (char c : word2.toCharArray()) {
-            exist2.add(c);
+            isExisting2[c - 'a']++;
             freq2[c - 'a']++;
         }
 
-        for (char c : exist1) {
-            if (!exist2.contains(c)) {
-                return false;
-            }
-        }
-
-        for (char c : exist2) {
-            if (!exist1.contains(c)) {
+        for (int i = 0; i < 26; i++) {
+            if ((isExisting1[i] != 0 && isExisting2[i] == 0) ||
+                (isExisting1[i] == 0 && isExisting2[i] != 0)) {
                 return false;
             }
         }
