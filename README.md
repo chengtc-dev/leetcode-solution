@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/chengtc-dev/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/chengtc-dev/leetcode-solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
