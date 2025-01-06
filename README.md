@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chengtc-dev/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/chengtc-dev/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chengtc-dev/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2470-removing-stars-from-a-string](https://github.com/chengtc-dev/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chengtc-dev/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/chengtc-dev/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chengtc-dev/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chengtc-dev/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chengtc-dev/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/chengtc-dev/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/chengtc-dev/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chengtc-dev/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Dynamic Programming
 |  |
 | ------- |
