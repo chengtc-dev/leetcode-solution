@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chengtc-dev/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/chengtc-dev/leetcode-solution/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/chengtc-dev/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/chengtc-dev/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chengtc-dev/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/chengtc-dev/leetcode-solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
