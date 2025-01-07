@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/chengtc-dev/leetcode-solution/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/chengtc-dev/leetcode-solution/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chengtc-dev/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/chengtc-dev/leetcode-solution/tree/master/1894-merge-strings-alternately) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/chengtc-dev/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/chengtc-dev/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chengtc-dev/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chengtc-dev/leetcode-solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chengtc-dev/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/chengtc-dev/leetcode-solution/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/chengtc-dev/leetcode-solution/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/chengtc-dev/leetcode-solution/tree/master/1908-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
