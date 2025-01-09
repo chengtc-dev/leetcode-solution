@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/chengtc-dev/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chengtc-dev/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/chengtc-dev/leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/chengtc-dev/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chengtc-dev/leetcode-solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/chengtc-dev/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chengtc-dev/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/chengtc-dev/leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chengtc-dev/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/2428-equal-row-and-column-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chengtc-dev/leetcode-solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/chengtc-dev/leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chengtc-dev/leetcode-solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
