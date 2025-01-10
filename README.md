@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/chengtc-dev/leetcode-solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/chengtc-dev/leetcode-solution/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/chengtc-dev/leetcode-solution/tree/master/0649-dota2-senate) |
+| [0952-word-subsets](https://github.com/chengtc-dev/leetcode-solution/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chengtc-dev/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chengtc-dev/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/chengtc-dev/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/chengtc-dev/leetcode-solution/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/chengtc-dev/leetcode-solution/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/chengtc-dev/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/chengtc-dev/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chengtc-dev/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/chengtc-dev/leetcode-solution/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/chengtc-dev/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chengtc-dev/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
