@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/chengtc-dev/leetcode-solution/tree/master/0649-dota2-senate) |
 | [0952-word-subsets](https://github.com/chengtc-dev/leetcode-solution/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chengtc-dev/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/chengtc-dev/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/chengtc-dev/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/chengtc-dev/leetcode-solution/tree/master/0649-dota2-senate) |
+| [1502-construct-k-palindrome-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/chengtc-dev/leetcode-solution/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/chengtc-dev/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chengtc-dev/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/2428-equal-row-and-column-pairs) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
