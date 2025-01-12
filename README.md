@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/chengtc-dev/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/chengtc-dev/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chengtc-dev/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chengtc-dev/leetcode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/chengtc-dev/leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/chengtc-dev/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chengtc-dev/leetcode-solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/chengtc-dev/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/chengtc-dev/leetcode-solution/tree/master/0649-dota2-senate) |
 | [1502-construct-k-palindrome-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chengtc-dev/leetcode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/chengtc-dev/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/chengtc-dev/leetcode-solution/tree/master/0735-asteroid-collision) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chengtc-dev/leetcode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chengtc-dev/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/chengtc-dev/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
