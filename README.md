@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/chengtc-dev/leetcode-solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chengtc-dev/leetcode-solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chengtc-dev/leetcode-solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chengtc-dev/leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chengtc-dev/leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/chengtc-dev/leetcode-solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/chengtc-dev/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chengtc-dev/leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/chengtc-dev/leetcode-solution/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chengtc-dev/leetcode-solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chengtc-dev/leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
