@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chengtc-dev/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/chengtc-dev/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/chengtc-dev/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/chengtc-dev/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/chengtc-dev/leetcode-solution/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chengtc-dev/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/chengtc-dev/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/chengtc-dev/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chengtc-dev/leetcode-solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chengtc-dev/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/chengtc-dev/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/chengtc-dev/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/chengtc-dev/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/chengtc-dev/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/chengtc-dev/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chengtc-dev/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Dynamic Programming
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/chengtc-dev/leetcode-solution/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/chengtc-dev/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/chengtc-dev/leetcode-solution/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/chengtc-dev/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
